@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-08-17T11:47:00 WAT" name="Default Suite" finished-at="2023-08-17T11:47:06 WAT" duration-ms="5906">
+    <groups>
+    </groups>
+    <test started-at="2023-08-17T11:47:00 WAT" name="RestAssuredProject" finished-at="2023-08-17T11:47:06 WAT" duration-ms="5906">
+      <class name="APITests">
+        <test-method signature="Delete()[pri:0, instance:APITests@2ea6137]" started-at="2023-08-17T11:47:00 WAT" name="Delete" finished-at="2023-08-17T11:47:03 WAT" duration-ms="2865" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Delete -->
+        <test-method signature="Get1()[pri:0, instance:APITests@2ea6137]" started-at="2023-08-17T11:47:03 WAT" name="Get1" finished-at="2023-08-17T11:47:04 WAT" duration-ms="1146" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Get1 -->
+        <test-method signature="Get2()[pri:0, instance:APITests@2ea6137]" started-at="2023-08-17T11:47:04 WAT" name="Get2" finished-at="2023-08-17T11:47:04 WAT" duration-ms="94" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Get2 -->
+        <test-method signature="Patch()[pri:0, instance:APITests@2ea6137]" started-at="2023-08-17T11:47:04 WAT" name="Patch" finished-at="2023-08-17T11:47:04 WAT" duration-ms="618" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Patch -->
+        <test-method signature="Post()[pri:0, instance:APITests@2ea6137]" started-at="2023-08-17T11:47:04 WAT" name="Post" finished-at="2023-08-17T11:47:05 WAT" duration-ms="521" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Post -->
+        <test-method signature="Put()[pri:0, instance:APITests@2ea6137]" started-at="2023-08-17T11:47:05 WAT" name="Put" finished-at="2023-08-17T11:47:06 WAT" duration-ms="574" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Put -->
+      </class> <!-- APITests -->
+    </test> <!-- RestAssuredProject -->
+  </suite> <!-- Default Suite -->
+</testng-results>
